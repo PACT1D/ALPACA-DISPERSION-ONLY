@@ -1,8 +1,0 @@
-#MODEL      mech 
-#LANGUAGE   MATLAB 
-#DOUBLE     ON
-#INTEGRATOR rosenbrock
-#DRIVER     ./chem_driver
-#JACOBIAN   SPARSE_LU_ROW 
-#HESSIAN    OFF 
-#STOICMAT   OFF
